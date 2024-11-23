@@ -2,9 +2,11 @@ body{
     margin: 0%;
     padding: 0%;
     font-family: sans-serif;
+    background-color: rgb(196, 131, 52);   
 }
-body{
-    background-color: rgb(196, 131, 52);
+img{
+    width: 450px;
+   
 }
 .hero{
     display: flex;
